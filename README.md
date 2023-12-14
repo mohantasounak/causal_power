@@ -18,6 +18,6 @@ Step 3: "trial_type" is a [900 x 1] array with 9 unique experiment conditions re
       
 Step 4: Run [stats] = cal_causal_power(trial_type, conditions)
 
-stats.deltaP = delta P calculations; 
+stats.deltaP = delta P calculations 
 
 stats.causal_power = causal_power calculations
